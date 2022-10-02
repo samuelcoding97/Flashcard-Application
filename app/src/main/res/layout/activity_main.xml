@@ -24,6 +24,16 @@
         android:textSize="40sp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="200dp" />
+
+    <ImageView
+        android:id="@+id/plus_sign"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        app:srcCompat="@drawable/plus_sign" />
+
+
 </RelativeLayout>
 
 
