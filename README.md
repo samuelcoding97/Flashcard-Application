@@ -4,9 +4,9 @@ Flashcard App
 Loads a flashcard and you can make your own as well
 
 ### App Walk-though
-https://media.giphy.com/media/b0nIQqZZmO27APas0s/giphy.gif
+https://imgur.com/IMGhwJB
 
-<img src=https://media.giphy.com/media/b0nIQqZZmO27APas0s/giphy.gif width=200><br>
+<img src=https://imgur.com/IMGhwJB width=200><br>
 
 
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
