@@ -5,9 +5,9 @@ Loads a flashcard and you can make your own as well
 
 ### App Walk-though
 
-https://media.giphy.com/media/9YmRXwQPfN7fKSO1r3/giphy.gif
+https://media.giphy.com/media/qXKkD3XS1l4y2zxDYN/giphy.gif
 
-<img src=https://media.giphy.com/media/9YmRXwQPfN7fKSO1r3/giphy.gif width=200><br>
+<img src=https://media.giphy.com/media/qXKkD3XS1l4y2zxDYN/giphy.gif width=200><br>
 
 
 
