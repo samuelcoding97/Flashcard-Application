@@ -6,7 +6,7 @@ Loads a flashcard and you can make your own as well
 ### App Walk-though
 https://imgur.com/IMGhwJB
 
-<img src=https://imgur.com/IMGhwJB width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/UYUYWmj" data-context="false" ><a href="//imgur.com/a/UYUYWmj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
