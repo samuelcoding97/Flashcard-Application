@@ -6,7 +6,7 @@ This app lets users add cards and scroll through saved cards
 ### App Walk-though
 
 
-<img src=https://media.giphy.com/media/hLgmnLGZgi5XY12FRr/giphy.gif width=200><br>
+<img src=https://media.giphy.com/media/Lznnn2vqrsPA3n0N5X/giphy.gif width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
