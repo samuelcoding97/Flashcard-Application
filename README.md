@@ -6,7 +6,7 @@ Lab 4
 ### App Walk-though
 
 
-<img src=https://media.giphy.com/media/6biTCLHpBQRPb2sQxl/giphy.gif
+<img src=https://media.giphy.com/media/6biTCLHpBQRPb2sQxl/giphy.gif width=200><br>
 
 
 ## Required
